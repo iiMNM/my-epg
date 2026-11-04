@@ -10,6 +10,7 @@ SOURCES = [
     "https://www.open-epg.com/files/egypt2.xml.gz",
     "https://www.open-epg.com/files/qatar5.xml.gz",
     "https://www.open-epg.com/files/qatar6.xml.gz",
+    "https://raw.githubusercontent.com/iimnm/arabic-epg/output/guide.xml.gz",
     "https://www.open-epg.com/files/saudiarabia.xml.gz",
     "https://www.open-epg.com/files/qatar1.xml.gz",
 ]
